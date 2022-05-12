@@ -2,5 +2,18 @@ body
 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: deeppink;
+    color: black;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+#container{
+    font-size: 20px;
 }
